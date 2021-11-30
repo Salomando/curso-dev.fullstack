@@ -1,0 +1,36 @@
+body{
+    background: rgba(216, 215, 215, 0.397);
+}
+
+p{
+    color: #222222;
+}
+
+.foto-principal{
+    width: 200px;
+    border: 5px solid #FFFFFF; /* Shor hand */
+    /* 
+        5px espessura da borda
+        solid tipo da borda
+        black cor da borda
+    
+     border-width: 5px;
+     border-style: solid;
+     border-color: black;
+    */
+
+   /* border-radius: 50%; */
+
+   /* Border radius permite alterar cada uma das bordas
+
+    border-radius: CSD% CSE% CID% CIE%
+
+   CSD - Canto Superior Direito
+   CSE - Canto Superior Esquerdo 
+   CID - Canto Inferior Direito
+   CIE - Canto Inferior Esquerdo
+   
+   */
+
+   border-radius: 45% 0% 35% 10%;
+}

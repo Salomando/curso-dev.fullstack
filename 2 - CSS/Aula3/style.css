@@ -1,0 +1,13 @@
+body{
+    /* background: rgba(216, 215, 215, 0.397); */
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /*background-position: 100% 10%;*/
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p{
+    color: #222222;
+}
